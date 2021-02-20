@@ -1,0 +1,104 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:whitesmoke;
+  }
+  
+  li {
+    float: right;
+    margin-right: 10px;
+  }
+  
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: 700;
+  }
+  #first-text{
+      color:mediumslateblue;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      font-weight: 700;
+  }
+   #second-text{
+       color:tomato;
+       font-family: Arial, Helvetica, sans-serif;
+       font-weight: 700;
+   }
+
+
+
+
+
+  .text{
+      margin:18% 25%;
+  }
+  #image{
+      min-height: fit-content;
+      max-width: fit-content;
+      height: 50%;
+      width: 50%;
+      float:right;
+      margin-right: 50px;
+      
+  }
+  #button{
+      padding: 15px;
+      background-color: tomato;
+      color: whitesmoke;
+      border-radius: 20%;
+      font-weight: 700;
+      border: tomato;
+  }
+#image-2{
+
+    margin-left: 15%;
+}
+#text-2{
+    font: bold;
+    color: black;
+    margin-top: 30%;
+    margin-left: 30%;
+}
+#btn-2{
+    padding: 15px;
+      background-color: tomato;
+      color: whitesmoke;
+      border-radius: 20%;
+      font-weight: 700;
+      border: tomato;
+}
+
+#last-text{
+    text-align: center;
+}
+
+#last-image{
+    margin-left: 30px;
+    padding-right: 80px;
+}
+#work-inquary{
+    padding: 50px;
+    background-color: tomato;
+    color: whitesmoke;
+    
+    font-weight: 700;
+    border: tomato;
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 10%;
+
+
+
+}
+#small-btn{
+    height: 20px;
+    width: 20px;
+    border: brown;
+    box-sizing: border-box;
+    border-radius: 5%;
+}
